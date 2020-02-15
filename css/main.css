@@ -1,0 +1,159 @@
+#body{
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetic, sans-serif, monospace;
+    color: #ffffff;
+}
+#top-header{
+    float: right;
+    padding: 15px;
+    display: inline;
+}
+#top-header a{
+    color: #ffffff;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 20px;
+}
+#top-header a:hover{
+    color: #bec2b5;
+    text-decoration: none;
+}
+.brand{
+    float: left;
+    color: #ffffff;
+    padding: 40px;
+}
+.food{
+    color: #ff484a;
+}
+#navbar{
+    clear: right;
+    float: right;
+    overflow: hidden;
+}
+#navbar a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 40px;
+    font-weight: bold;
+}
+#navbar a:hover{
+    color: #ff484a;
+    text-decoration: none;
+}
+#section-a{
+    clear: both;
+    background-image: url("../images/burger-2.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+}
+#section-a a{
+    margin: auto;
+    display: block;
+    height: 40px;
+    width: 150px;
+}
+#content{
+    position: absolute;
+    padding:150px 100px;
+}
+#content h2{
+    text-align: center;
+    padding: 20px;
+}
+#content p{
+    text-align: center;
+    color: #ffffff;
+}
+.btn{
+    text-transform: uppercase;
+}
+#section-b{
+    background-color: #ffffff;
+    color: #000000;
+}
+#section-b h1{
+    padding: 50px;
+    text-align: center;
+}
+#section-c{
+    background-color: #ffffff;
+    color: #000000;
+    padding: 20px;
+}
+#section-c h1{
+    text-align: center;
+    padding: 30px;
+}
+#section-c p{
+    padding: 20px;
+    text-align: left;
+}
+.links a{
+    color: #000000;
+}
+.links a:hover{
+    color: #ff484a;
+    text-decoration: none;
+}
+.link{
+    color: #ff484a;
+    padding: 20px;
+}
+.link:hover{
+    color: #ff484a;
+}
+#section-d{
+    background-color: #000000;
+}
+#section-d h1{
+    text-align: center;
+    padding: 50px;
+}
+#section-d h2,p {
+    color: #000000;
+    text-align: center;
+}
+#section-d a{
+    margin: auto;
+    display: block;
+    height: 40px;
+    width: 40px;
+}
+#footer{
+    padding: 50px;
+    margin-top: 50px;
+    background-color: #000000;
+    border-top: solid 1px #333333;
+}
+#footer h3{
+    color: #bec2b5;
+    text-align: center;
+}
+#footer a{
+    text-decoration: none;
+    display: block;
+    color: #bec2b5;
+    text-align: center;
+}
+#footer a:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
+#footer p{
+    color: #bec2b5;
+    text-align: justify;
+}
+.contact2 a:hover{
+    color: #ffffff;
+}
+#footer .last{
+    text-align: center;
+}
